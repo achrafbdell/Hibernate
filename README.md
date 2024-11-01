@@ -1,5 +1,3 @@
-# Hibernate
-
 # 📖 Description
 
 Ce projet est une application Java qui utilise Hibernate pour gérer des entités de type Machine et Salle. L'application fournit des services pour effectuer des opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) sur ces entités.
